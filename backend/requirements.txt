@@ -1,0 +1,13 @@
+flask
+flask-restful
+flask-sqlalchemy
+flask-security-too
+flask-cors
+flask-mail
+flask-caching
+celery
+redis
+python-dotenv
+sendgrid
+requests
+#to install this pip install -r requirements.txt
